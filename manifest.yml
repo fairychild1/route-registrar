@@ -1,0 +1,8 @@
+---
+applications:
+- name: route
+  memory: 512M
+  host: route
+  path: ./
+  command: ./route-registrar -configPath conf/config.json
+  buildpack: Binary

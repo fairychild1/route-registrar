@@ -1,0 +1,11 @@
+{
+  "message_bus_servers": [
+    {
+      "host": "192.168.1.178:4222",
+      "user": "nats",
+      "password": "c1oudc0w"
+    }
+  ],
+  "host": "192.168.1.189"
+
+}
